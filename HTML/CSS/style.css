@@ -1,0 +1,39 @@
+
+body{
+
+    background-image: url(../imagenes\ y\ gifs/b.png)
+}
+h1{
+
+    color: blueviolet;
+    text-align: center
+}
+
+h3{
+
+    color: crimson
+}
+
+#SECCION {
+font-family: monospace;
+    margin: 4px;
+    text-align: justify;
+    color: rgb(255, 255, 255);
+    background-color: hsl(hue, saturation, lightness)
+}
+
+div{
+    color: aqua;
+    background-color: transparent
+
+}
+
+#Cambio {
+
+    color: green
+
+
+}
+
+
+
